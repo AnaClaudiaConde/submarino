@@ -13,7 +13,7 @@ pipeline {
                 sh 'bundle install'
             }
         }
-        stages('Test') {
+        stage('Test') {
             steps{
                 echo 'Running regression tests'
                 sh 'bundle exec cucumber -p ci'
