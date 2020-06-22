@@ -1,4 +1,4 @@
 .DS_Store
-features/log/screenshots
-features/log/*.json
-features/log/*.html
+features/logs/screenshots
+features/logs/*.json
+features/logs/*.html

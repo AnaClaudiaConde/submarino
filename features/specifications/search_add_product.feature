@@ -26,6 +26,7 @@ Quando realizo a busca de um produto específico
 E seleciono um item
 Então verifico se o produto foi o escolhido
 
+@wip
 Cenario: Adicionar um único produto no carrinho
 Dado que acesso a home
 Quando realizo a busca de um produto específico
