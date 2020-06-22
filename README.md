@@ -1,6 +1,6 @@
 # Submarino
 
-Repositório Submarino com Cucumber, Capybara e Ruby
+Repositório de teste e2e do Submarino com Cucumber, Capybara e Ruby
 
 ## Como executar o projeto
 
