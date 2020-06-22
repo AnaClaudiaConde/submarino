@@ -1,6 +1,5 @@
 require "capybara"
 require "capybara/cucumber"
-require "httparty"
 require "selenium-webdriver"
 require "pry"
 require "rspec"
