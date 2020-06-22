@@ -8,7 +8,7 @@ Before do
 end
 
 After do
-  temp_shot = page.save_screenshot("log/temp_shot.png")
+  temp_shot = page.save_screenshot("logs/temp_shot.png")
   screenshot = Base64.encode64(File.open(temp_shot, "rb").read)
   attach(screenshot, "image/png")
 end
@@ -18,8 +18,8 @@ d = DateTime.now
 
 at_exit do
   ReportBuilder.configure do |config|
-    config.input_path = "log/report.json"
-    config.report_path = "log/" + @current_date
+    config.input_path = "logs/report.json"
+    config.report_path = "logs/" + @current_date
     config.report_types = [:html]
     config.report_title = "Submarino"
     config.compress_image = true

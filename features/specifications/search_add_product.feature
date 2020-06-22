@@ -5,7 +5,6 @@ Para que eu posso realizar uma busca e adicionar no carrinho
 Sendo um usuário não logada
 Posso adicionar vários itens
 
-@wip
 Cenario: Busca de um produto específico
 Dado que acesso a home
 Quando realizo a busca de um produto específico
@@ -21,7 +20,6 @@ Dado que acesso a home
 Quando realizo a busca de um produto não existente
 Então vejo a mensagem "Não encontramos nenhum resultado na sua busca."
 
-@abc
 Cenario: Selecionar um produto
 Dado que acesso a home
 Quando realizo a busca de um produto específico
