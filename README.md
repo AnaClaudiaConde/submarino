@@ -4,7 +4,7 @@ Repositório Submarino com Cucumber, Capybara e Ruby
 
 ## Como executar o projeto
 
-- Ter instalado a versão 2.7
+- Ter instalado a versão 2.7 do Ruby
   
   ### Instalar o Bundler
   ```shel
