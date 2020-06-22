@@ -1,13 +1,5 @@
 #language:pt
 
-# 1- Entre em um grande portal de comércio online (Exemplo: Americanas, Submarino, Magazine Luiza)
-# 2- Faça uma busca por um produto
-# 3- Valide o retorno da busca
-# 4- Escolha um produto na lista
-# 5- Adicione o carrinho
-# 6- Valide o produto no carrinho
-
-
 Funcionalidade: Buscando e adicionando produto no carrinho sem estar logado
 Para que eu posso realizar uma busca e adicionar no carrinho
 Sendo um usuário não logada
